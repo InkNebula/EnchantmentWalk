@@ -3,6 +3,6 @@
 # enchantlimit limits enchantments to their vanilla values
 # maxenchant is useless if enchantlimit is set to true
 enchantfullinventory: true
-enchantlimit: true
-maxenchant: 12
+enchantlimit: false
+maxenchant: 1,000,000
 nosilktouch: false
